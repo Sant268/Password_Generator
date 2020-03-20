@@ -5,6 +5,11 @@
     position: absolute;
     top: 50%;
 }
+.wrapper2 {
+  position: absolute;
+  top: 60%;
+  left: 50%;
+}
 body{
   background: linear-gradient(270deg, #54e6c0, #54e663, #1cbbe4);
   background-size: 600% 600%;

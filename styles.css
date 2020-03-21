@@ -10,6 +10,9 @@
   top: 60%;
   left: 50%;
 }
+.copyhelper {
+  position: absolute;
+}
 body{
   background: linear-gradient(270deg, #54e6c0, #54e663, #1cbbe4);
   background-size: 600% 600%;

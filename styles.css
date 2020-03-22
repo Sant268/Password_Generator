@@ -10,6 +10,15 @@
   top: 60%;
   left: 50%;
 }
+.wrapper3 {
+  position: absolute;
+  top: 70%;
+  left: 50%;
+}
+.button2 {
+    position: absolute;
+    top: 80%;
+}
 .copyhelper {
   position: absolute;
 }

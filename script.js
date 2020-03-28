@@ -2,7 +2,7 @@ var copyString;
 function generate_aln(){
 randomstring = Math.random().toString(36).slice(-12);
 copyString = randomstring;
-document.getElementById('password_lower').innerHTML = randomstring ; //onClick
+document.getElementById('password_lower').innerHTML = randomstring ;
 }
 function executeCopy_aln() {
   var copyhelper = document.createElement("input");

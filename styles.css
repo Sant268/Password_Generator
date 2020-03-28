@@ -36,8 +36,14 @@ text-decoration: underline;
 .alpha{
       top: 10vw;
 }
+.alpha :hover{
+  cursor: pointer;
+}
 .symbolic{
   top:10vw;
+}
+.symbolic:hover{
+  cursor: pointer;
 }
 body{
   background: #ECF0F3;
